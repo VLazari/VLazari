@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in becoming a Full-Stack Developer.
 
-- 🌱 I’m currently learning Front-End Development at “Noroff” school of technology and digital media
+- 🌱 I graduated Front-End Development at “Noroff” school of technology and digital media
 
-- 💞️ I’m looking for an internship opportunity to refine feather my skills.
+- 💞️ I’m looking for an internship or entry level opportunity to refine feather my skills.
 
 - 📫 [LinkedIn](www.linkedin.com/in/viorel-lazari)
 
